@@ -4,16 +4,20 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 > A secure file sharing web app built with PHP and MySQL.
 > Upload, encrypt, share via link, and track every download.
 
 🌐 **Live Demo:** [filevault.great-site.net](http://filevault.great-site.net/register.php)
+
 <img width="1551" height="650" alt="image" src="https://github.com/user-attachments/assets/351b16b3-11aa-416f-976b-f5c52d46ea94" />
-<img width="531" height="793" alt="image" src="https://github.com/user-attachments/assets/4bbeb381-cdac-4304-ba85-d4c635a142e7" />
-<img width="580" height="793" alt="image" src="https://github.com/user-attachments/assets/147e8adc-3a4d-470b-83f9-d71b33bdcab9" />
+
 <img width="1654" height="886" alt="image" src="https://github.com/user-attachments/assets/c9203353-7ea5-4f5a-aa40-d1b7501e9331" />
+
 <img width="1725" height="822" alt="image" src="https://github.com/user-attachments/assets/cdae6e0f-ff54-4ef0-8e08-5df293d77be0" />
+
+---
 
 ## ✨ Features
 
